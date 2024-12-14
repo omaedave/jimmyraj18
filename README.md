@@ -24,8 +24,7 @@
 - Cloud Development
 - Data Science
 - Deep Learning
-- Machine Learning
-
+ You will be directed  website
 <h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
 
 MVC asp.Net-------██████████████████░░░░░░░  
